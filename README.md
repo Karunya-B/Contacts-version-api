@@ -3,7 +3,7 @@
 A RESTful API for managing contacts with user authentication built using Node.js, Express, and MongoDB.
 
 ## 🚀 Live Demo
-API is deployed at: [https://contacts-api-mk9f.onrender.com](https://contacts-api-mk9f.onrender.com)
+API is deployed at: [https://contacts-version-api-2.onrender.com](https://contacts-version-api-2.onrender.com)
 
 ## ✨ Features
 - User authentication with JWT
